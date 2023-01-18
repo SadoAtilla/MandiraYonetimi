@@ -1,0 +1,4 @@
+Personel ID : 123 ,Ad : Barýþ ,Soyad : Çaylý ,Alan : inek 
+Personel ID : 321 ,Ad : Sadýk ,Soyad : Atilla ,Alan : koyun 
+Personel ID : 789 ,Ad : Ali ,Soyad : Biçim ,Alan : keci 
+Personel ID : 987 ,Ad : Mesutcan ,Soyad : Tomay ,Alan : tavuk 
